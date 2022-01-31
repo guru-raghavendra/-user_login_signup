@@ -5,7 +5,7 @@ and API which is used for login of exisiting user and shows msg logged in succes
 
 ## API endpoints.
 1. **django admin** <br>
-    ```http://127.0.0.1:8000/admin``` fot django admin
+    ```http://127.0.0.1:8000/admin``` for django admin
     
 2. **signup** <br>
     Make a POST request to ```http://127.0.0.1:8000/users_api/signup/``` with data in the JSON format to add an user details
