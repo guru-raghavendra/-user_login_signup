@@ -24,7 +24,7 @@ and API which is used for login of exisiting user and shows msg logged in succes
     ```json
     {
         "email" : "test8@gmail.com",
-        "password":"124"
+        "password":"1234"
     }
     ```
     
